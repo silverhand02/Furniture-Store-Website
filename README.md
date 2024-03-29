@@ -35,8 +35,13 @@ This is a project for creating a Furniture Store Website. The website aims to pr
 ![Details](readme-images/Details.png)
 ![MenuManagement](readme-images/MenuManagement.png)
 ![NewsManagement](readme-images/NewsManagement.png)
+![ProductCateManagement](readme-images/ProductCateManagement.png)
 ![AccountManagement](readme-images/AccountManagement.png)
-![Cart](readme-images/Cart.png)
+![Payment](readme-images/Payment.png)
+![Login](readme-images/Login.png)
+![Receipt](readme-images/Receipt.png)
+![AdminReceiptDetail](readme-images/AdminReceiptDetail.png)
+
 ## Contributors
 - Duong Duc Nguyen(me) - Back-end Developer
 - Tran Quang Minh - Back-end Developer
