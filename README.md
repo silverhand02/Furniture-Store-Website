@@ -7,6 +7,7 @@ This is a project for creating a Furniture Store Website. The website aims to pr
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Contributors](#contributors)
 
 ## Features
 - Browse furniture items by category
@@ -26,5 +27,11 @@ This is a project for creating a Furniture Store Website. The website aims to pr
 - JavaScript
 - Bootstrap (or any other CSS framework you used)
 - MySQL
+
+## Contributors
+- Duong Duc Nguyen
+- Tran Quang Minh
+- Nguyen Thanh Loc
+
 
 
