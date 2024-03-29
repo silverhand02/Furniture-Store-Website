@@ -43,7 +43,7 @@ This is a project for creating a Furniture Store Website. The website aims to pr
 ![AdminReceiptDetail](readme-images/AdminReceiptDetail.png)
 
 ## Contributors
-- Duong Duc Nguyen(me) - Back-end Developer
+- Duong Duc Nguyen - Back-end Developer - https://github.com/silverhand02
 - Tran Quang Minh - Back-end Developer
 - Nguyen Thanh Loc - Front-end Developer - https://github.com/ngthloc1803
 
