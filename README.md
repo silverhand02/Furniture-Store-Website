@@ -45,7 +45,7 @@ This is a project for creating a Furniture Store Website. The website aims to pr
 ## Contributors
 - Duong Duc Nguyen(me) - Back-end Developer
 - Tran Quang Minh - Back-end Developer
-- Nguyen Thanh Loc - Front-end Developer
+- Nguyen Thanh Loc - Front-end Developer - https://github.com/ngthloc1803
 
 
 
