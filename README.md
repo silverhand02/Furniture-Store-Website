@@ -29,9 +29,9 @@ This is a project for creating a Furniture Store Website. The website aims to pr
 - MySQL
 
 ## Contributors
-- Duong Duc Nguyen
-- Tran Quang Minh
-- Nguyen Thanh Loc
+- Duong Duc Nguyen(me) - Back-end Developer
+- Tran Quang Minh - Back-end Developer
+- Nguyen Thanh Loc - Front-end Developer
 
 
 
