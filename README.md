@@ -41,7 +41,6 @@ This is a project for creating a Furniture Store Website. The website aims to pr
 ![Login](readme-images/Login.png)
 ![Receipt](readme-images/Receipt.png)
 ![AdminReceiptDetail](readme-images/AdminReceiptDetail.png)
-https://drive.google.com/file/d/1QBb84Pc1kmzowkXykQmwmwEbOnbrUgTY/view?usp=drive_link
 
 ## Contributors
 - Duong Duc Nguyen - Back-end Developer - https://github.com/silverhand02
