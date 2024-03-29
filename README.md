@@ -1,6 +1,6 @@
 # Furniture Store Website
 
-![Furniture Store Website]()
+![Furniture Store Website](readme-images/Description.png)
 
 This is a project for creating a Furniture Store Website. The website aims to provide users with a convenient platform to browse and purchase furniture items online.
 
