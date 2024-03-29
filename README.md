@@ -1,5 +1,6 @@
 # Furniture Store Website
 
+![Furniture Store Website](readme-images/Description.png)
 
 This is a project for creating a Furniture Store Website. The website aims to provide users with a convenient platform to browse and purchase furniture items online.
 
@@ -29,6 +30,17 @@ This is a project for creating a Furniture Store Website. The website aims to pr
 - JQuery
 - MySQL
 ## Demo
+![Database](readme-images/Database.png)
+![Browse](readme-images/Browse.png)
+![Details](readme-images/Details.png)
+![MenuManagement](readme-images/MenuManagement.png)
+![NewsManagement](readme-images/NewsManagement.png)
+![ProductCateManagement](readme-images/ProductCateManagement.png)
+![AccountManagement](readme-images/AccountManagement.png)
+![Payment](readme-images/Payment.png)
+![Login](readme-images/Login.png)
+![Receipt](readme-images/Receipt.png)
+![AdminReceiptDetail](readme-images/AdminReceiptDetail.png)
 https://drive.google.com/file/d/1QBb84Pc1kmzowkXykQmwmwEbOnbrUgTY/view?usp=drive_link
 
 ## Contributors
