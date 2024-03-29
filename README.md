@@ -18,11 +18,13 @@ This is a project for creating a Furniture Store Website. The website aims to pr
 - Admin dashboard for managing products and orders
 
 ## Technologies Used
+- C#
+- ASP.NET Core MVC
+- Entity Framework Core
 - HTML5
 - CSS3
 - JavaScript
-- Node.js
-- MySQL
 - Bootstrap (or any other CSS framework you used)
+- MySQL
 
 
