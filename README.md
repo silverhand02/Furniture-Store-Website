@@ -1,12 +1,13 @@
 # Furniture Store Website
 
-![Furniture Store Website]
+![Furniture Store Website]()
 
 This is a project for creating a Furniture Store Website. The website aims to provide users with a convenient platform to browse and purchase furniture items online.
 
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Demo](#demo)
 - [Contributors](#contributors)
 
 ## Features
@@ -27,6 +28,7 @@ This is a project for creating a Furniture Store Website. The website aims to pr
 - JavaScript
 - Bootstrap (or any other CSS framework you used)
 - MySQL
+## Demo
 
 ## Contributors
 - Duong Duc Nguyen(me) - Back-end Developer
