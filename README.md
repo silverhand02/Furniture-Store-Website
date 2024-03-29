@@ -29,7 +29,13 @@ This is a project for creating a Furniture Store Website. The website aims to pr
 - Bootstrap (or any other CSS framework you used)
 - MySQL
 ## Demo
-
+![Database](readme-images/Database.png)
+![Browse](readme-images/Browse.png)
+![Details](readme-images/Details.png)
+![MenuManagement](readme-images/MenuManagement.png)
+![NewsManagement](readme-images/NewsManagement.png)
+![AccountManagement](readme-images/AccountManagement.png)
+![Cart](readme-images/Cart.png)
 ## Contributors
 - Duong Duc Nguyen(me) - Back-end Developer
 - Tran Quang Minh - Back-end Developer
