@@ -1,20 +1,12 @@
 # Furniture Store Website
 
-![Furniture Store Website](link_to_your_image_here)
+![Furniture Store Website]
 
 This is a project for creating a Furniture Store Website. The website aims to provide users with a convenient platform to browse and purchase furniture items online.
 
 ## Table of Contents
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Demo
-[Link to live demo](link_to_live_demo_here)
 
 ## Features
 - Browse furniture items by category
@@ -29,17 +21,8 @@ This is a project for creating a Furniture Store Website. The website aims to pr
 - HTML5
 - CSS3
 - JavaScript
-- React.js
 - Node.js
-- Express.js
-- MongoDB
+- MySQL
 - Bootstrap (or any other CSS framework you used)
-- JWT for authentication
 
-## Installation
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your_username/furniture-store-website.git
 
