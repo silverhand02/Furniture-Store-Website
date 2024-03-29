@@ -26,7 +26,8 @@ This is a project for creating a Furniture Store Website. The website aims to pr
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap 
+- Bootstrap 4
+- JQuery
 - MySQL
 ## Demo
 ![Database](readme-images/Database.png)
