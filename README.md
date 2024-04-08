@@ -21,8 +21,8 @@ This is a project for creating a Furniture Store Website. The website aims to pr
 
 ## Technologies Used
 - C#
-- ASP.NET Core MVC
-- Entity Framework Core
+- ASP.NET MVC
+- Entity Framework
 - HTML5
 - CSS3
 - JavaScript
